@@ -1,7 +1,7 @@
 const { Telegraf } = require('telegraf');
 const fs = require('fs');
 
-const bot = new Telegraf('Your_Token_Bot');
+const bot = new Telegraf('7045816432:AAHS_53OOeOKybuNGbC9fGo5atXTQ4kWyYM');
 
 let anonymousUsers = [];
 
