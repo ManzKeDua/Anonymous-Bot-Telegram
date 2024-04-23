@@ -1,10 +1,10 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/ExeCoders-Learning/Anonymous-Bot-Telegram/main/media/menunya.jpg" alt="BOT ANONYMOUS" width="400"/>
+<img src="https://raw.githubusercontent.com/ExeCoders-Learning/Anonymous-Bot-Telegram/main/menunya.jpg" alt="BOT ANONYMOUS" width="400"/>
 
  <p align="center">
     <a href="#">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Anonymous+Bot+Telegram+"
+            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Anonymous+Bot+Telegram+🎭"
             alt="Miftah GanzZ"
         />
     </a>
