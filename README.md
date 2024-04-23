@@ -100,7 +100,7 @@ $ npm start
 ```
 
 ## Download File
-[Download File](https://cdn)
+[Download File](http://cdn.itzpire.site/download/1713869145214-3bb1de.zip)
 
 ## Error For Install Module
 ```bash
